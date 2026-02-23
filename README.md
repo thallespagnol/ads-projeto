@@ -6,7 +6,7 @@ Este projeto faz parte de um estudo de **Data Insights** para entender por que u
 A empresa percebeu que a maioria da sua base de clientes já cancelou o serviço. Para reverter esse cenário, analisamos o comportamento desses clientes para encontrar padrões (gatilhos) que levam ao cancelamento.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Python 3.x**
+* **Python**
 * **Pandas**: Para manipulação e limpeza de dados.
 * **Plotly**: Para visualização de dados e criação de gráficos interativos.
 * **Jupyter Notebook**: Para o desenvolvimento da análise exploratória.
